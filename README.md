@@ -6,7 +6,7 @@ complete privacy. It is an experimental solution and still being actively develo
 share our research work in the belief that this will speed adoption of public blockchains. This is
 not intended to be a production-ready application and we do not recommend that you use it as such.
 If it accelerates your own work, then we are pleased to have helped. We hope that people will feel
-motivated to contribute their own ideas and improvements.
+motivated to contribute their own ideas and improvements. 
 
 **Note that this code has not yet completed a security review and therefore we strongly recommend
 that you do not use it in production or to transfer items of material value. We take no
